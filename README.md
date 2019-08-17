@@ -5,6 +5,7 @@
 ## 2019
 
 [	The Power of Habit: Why We Do What We Do, and How to Change ](	https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240	) 
+
 Notes : [	This ](	https://www.developgoodhabits.com/power-of-habit-review/ ) Is a really good review of the core tenets of the book. 
 
 [	Range : How Generalists Triumph in a Specialized World](	https://www.audible.co.uk/pd/Range-Audiobook/1529021138?qid=1562147680&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=903Z9J2Q9Q5BG5PHKHN0&ref=a_search_c3_lProduct_1_1	)
