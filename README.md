@@ -4,6 +4,10 @@
 
 ## 2019
 
+[	Masters Of Doom: How two guys created an empire and transformed pop culture ](	https://www.amazon.co.uk/Masters-Doom-created-transformed-culture/dp/0749924896/ref=sr_1_1?keywords=masters+of+doom&qid=1566583687&s=gateway&sr=8-1	)
+
+[	Everything Is F*cked: A Book About Hope | Mark Manson ](	https://www.amazon.co.uk/Untitled-Mark-Manson/dp/0062888439	)
+
 [	The Power of Habit: Why We Do What We Do, and How to Change ](	https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240	) 
 
 *Notes : [	This ](	https://www.developgoodhabits.com/power-of-habit-review/ ) Is a really good review of the core tenets of the book. 
