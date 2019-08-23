@@ -2,6 +2,8 @@
 
 ## In Progress 
 
+[	Do Dice Play God?: The Mathematics of Uncertainty ](	https://www.amazon.co.uk/Dice-Play-God-Mathematics-Uncertainty/dp/1788162285/ref=sr_1_1?keywords=do+dice+play+god&qid=1566583832&s=gateway&sr=8-1	)
+
 ## 2019
 
 [	Masters Of Doom: How two guys created an empire and transformed pop culture ](	https://www.amazon.co.uk/Masters-Doom-created-transformed-culture/dp/0749924896/ref=sr_1_1?keywords=masters+of+doom&qid=1566583687&s=gateway&sr=8-1	)
