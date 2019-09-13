@@ -2,9 +2,15 @@
 
 ## In Progress 
 
-[	Do Dice Play God?: The Mathematics of Uncertainty ](	https://www.amazon.co.uk/Dice-Play-God-Mathematics-Uncertainty/dp/1788162285/ref=sr_1_1?keywords=do+dice+play+god&qid=1566583832&s=gateway&sr=8-1	)
+[The Keto Reset Diet: Reboot Your Metabolism in 21 Days and Burn Fat Forever ] (https://www.amazon.co.uk/Keto-Reset-Diet-Metabolism-Forever/dp/1743794614/ref=sr_1_1?keywords=keto+reset&qid=1568353980&s=books&sr=1-1 ) 
 
 ## 2019
+
+[	The Everything Store: Jeff Bezos and the Age of Amazon ](	https://www.amazon.co.uk/Everything-Store-Jeff-Bezos-Amazon/dp/0552167835	)
+
+
+[	Do Dice Play God?: The Mathematics of Uncertainty ](	https://www.amazon.co.uk/Dice-Play-God-Mathematics-Uncertainty/dp/1788162285/ref=sr_1_1?keywords=do+dice+play+god&qid=1566583832&s=gateway&sr=8-1	)
+
 
 [	Masters Of Doom: How two guys created an empire and transformed pop culture ](	https://www.amazon.co.uk/Masters-Doom-created-transformed-culture/dp/0749924896/ref=sr_1_1?keywords=masters+of+doom&qid=1566583687&s=gateway&sr=8-1	)
 
