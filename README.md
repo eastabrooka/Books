@@ -2,10 +2,22 @@
 
 ## In Progress 
 
-[	The Keto Reset Diet: Reboot Your Metabolism in 21 Days and Burn Fat Forever ](	https://www.amazon.co.uk/Keto-Reset-Diet-Metabolism-Forever/dp/1743794614/ref=sr_1_1?keywords=keto+reset&qid=1568353980&s=books&sr=1-1	)
-
-
 ## 2019
+
+
+[	What the Most Successful People Do Before Breakfast: How to Achieve More at Work and at Home ](	
+https://www.amazon.co.uk/What-Successful-People-Before-Breakfast/dp/0670923613	)`
+
+
+[	Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) ](	
+https://www.amazon.co.uk/Surrounded-Idiots-Behavior-Effectively-Communicate/dp/1250179947	)`  
+
+
+[	Algorithms to Live by: The Computer Science of Human Decisions ](	
+https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/1627790365	)
+
+
+[	The Keto Reset Diet: Reboot Your Metabolism in 21 Days and Burn Fat Forever ](	https://www.amazon.co.uk/Keto-Reset-Diet-Metabolism-Forever/dp/1743794614/ref=sr_1_1?keywords=keto+reset&qid=1568353980&s=books&sr=1-1	)
 
 [	The Everything Store: Jeff Bezos and the Age of Amazon ](	https://www.amazon.co.uk/Everything-Store-Jeff-Bezos-Amazon/dp/0552167835	)
 
