@@ -9,8 +9,7 @@ https://www.amazon.com/Call-Sign-Chaos-Learning-Lead/dp/B07SHVNJWQ/	)
 [	Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster ](	
 https://www.amazon.com/Midnight-Chernobyl-Greatest-Nuclear-Disaster-ebook/dp/B07GNV7PNH	)
 
-[	Stop Doing That Sh*t ]
-( https://www.amazon.com/Stop-Doing-That-Sh-Self-Sabotage/dp/0062871846	)
+[	Stop Doing That Sh*t ]( https://www.amazon.com/Stop-Doing-That-Sh-Self-Sabotage/dp/0062871846	)
 
 
 [	What the Most Successful People Do Before Breakfast: How to Achieve More at Work and at Home ](	
