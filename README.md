@@ -3,14 +3,22 @@
 ## In Progress 
 
 ## 2019
+[	Call Sign Chaos: Learning to Lead  ](	
+https://www.amazon.com/Call-Sign-Chaos-Learning-Lead/dp/B07SHVNJWQ/	)
+
+[	Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster ](	
+https://www.amazon.com/Midnight-Chernobyl-Greatest-Nuclear-Disaster-ebook/dp/B07GNV7PNH	)
+
+[	Stop Doing That Sh*t ]
+( https://www.amazon.com/Stop-Doing-That-Sh-Self-Sabotage/dp/0062871846	)
 
 
 [	What the Most Successful People Do Before Breakfast: How to Achieve More at Work and at Home ](	
-https://www.amazon.co.uk/What-Successful-People-Before-Breakfast/dp/0670923613	)`
+https://www.amazon.co.uk/What-Successful-People-Before-Breakfast/dp/0670923613	)
 
 
 [	Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) ](	
-https://www.amazon.co.uk/Surrounded-Idiots-Behavior-Effectively-Communicate/dp/1250179947	)`  
+https://www.amazon.co.uk/Surrounded-Idiots-Behavior-Effectively-Communicate/dp/1250179947	)  
 
 
 [	Algorithms to Live by: The Computer Science of Human Decisions ](	
