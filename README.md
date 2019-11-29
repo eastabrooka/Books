@@ -3,6 +3,14 @@
 ## In Progress 
 
 ## 2019
+
+[For the Record - David Cameron](
+https://www.amazon.co.uk/Record-David-Cameron/dp/0008239282 )
+
+[Never Split the Difference: Negotiating as if Your Life Depended on It](
+https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended/dp/1847941494 )
+
+
 [	Call Sign Chaos: Learning to Lead  ](	
 https://www.amazon.com/Call-Sign-Chaos-Learning-Lead/dp/B07SHVNJWQ/	)
 
