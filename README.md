@@ -1,5 +1,13 @@
 # Books
 
+## Upcoming 
+
+Loserthink: How Untrained Brains Are Ruining America
+Scott Adams 
+
+Ten Arguments for Deleting Your Social Media Accounts Right Now 
+Jaron Lanier 
+
 ## In Progress 
 
 ## 2019
