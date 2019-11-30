@@ -5,12 +5,20 @@
 Loserthink: How Untrained Brains Are Ruining America
 Scott Adams 
 
-Ten Arguments for Deleting Your Social Media Accounts Right Now 
-Jaron Lanier 
 
 ## In Progress 
 
 ## 2019
+
+[Ten Arguments for Deleting Your Social Media Accounts Right Now - Jaron Lanier  ] ( https://www.amazon.co.uk/Arguments-Deleting-Social-Media-Accounts/dp/1847925391)
+I found this book really disappointing. 
+The first part focuses on how our minds are being taken over by forces that want to change our behaviour in a sinister way.
+In reality the vast majority of the time they're just advertisers trying to sell us a new type of coffee or something.
+Gave up a third of the way through. Maybe the ending was cracking who knows.
+
+Whilst its definitely worth considering how much time (if any) you spend on social media and what impact its having on you..
+With some books I read I wonder why I bother as I really know the information anyway. 
+
 
 [For the Record - David Cameron](
 https://www.amazon.co.uk/Record-David-Cameron/dp/0008239282 )
