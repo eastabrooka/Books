@@ -1,71 +1,71 @@
 # Books
 
-## Upcoming 
+## Upcoming
 
-2020 Book Plans : 
+2020 Book Plans :
 
-Maybe good for Work : 
+### Maybe good for Work :
 
-  “Energy and Civilization: A History,”
-  
-  “The Grid: The Fraying Wires Between Americans and Our Energy Future,” 
-  
-  
-From - https://dottedsquirrel.com/everything-else/2020-reading-list-for-developers/ 
+    “Energy and Civilization: A History,”
 
-  The Laws Of Human Nature = Robert Greene 
-  
-  Atomic Habits  - James Clear
-  
-  The Intelligent Investor 
-  
-  The Richest Man in Babylon
-  
-  The Little Book Of Common Sense Investing
-  
-  Zero Bugs and Program Faster
-  
-  Just Enough Software Architecture: A Risk-Driven Approach
-  
-  The Effective Engineer
+    “The Grid: The Fraying Wires Between Americans and Our Energy Future,”
 
-From various bits of Hackernews
 
-  Behave: The Biology of Humans at Our Best and Worst" by Robert M. Sapolsky.
-  
-  The Mosquito: A Human History of Our Deadliest Predator" by Timothy C. Winegard.
-  
-  The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution" by Gregory Zuckerman.
-  
-  Hacking Darwin: Genetic Engineering and the Future of Humanity" by Jamie Metzl.
-  
-  Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do" by Jennifer L. Eberhardt.
-  
-  The Spy and the Traitor: The Greatest Espionage Story of the Cold War" by Ben Macintyre.
-  
-  Trick Mirror: Reflections on Self-Delusion" by Jia Tolentino.
-  
-  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell.
-  
-  Prediction Machines: The Simple Economics of Artificial Intelligence," by Ajay Agrawal, Joshua Gans and Avi Goldfarb
-  
+### From - https://dottedsquirrel.com/everything-else/2020-reading-list-for-developers/
 
-The Random Pile
+    The Laws Of Human Nature = Robert Greene
 
-  How to Lie With Statistics, by Darrell Huff
-  
-  “Growth: From Microorganisms to Megacities,”
-  
-  “Why We Sleep: Unlocking the Power of Sleep and Dream,”
-  
-  “Bad Blood: Secrets and Lies in a Silicon Valley Startup,” < I have heard about this. "Theranos Bad" - Lol. 
-  
-  “The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger
-  
-  “Harvesting the Biosphere: What We Have Taken from Nature,”
-  
+    Atomic Habits  - James Clear
 
-## In Progress 
+    The Intelligent Investor
+
+    The Richest Man in Babylon
+
+    The Little Book Of Common Sense Investing
+
+    Zero Bugs and Program Faster
+
+    Just Enough Software Architecture: A Risk-Driven Approach
+
+    The Effective Engineer
+
+    From various bits of Hackernews
+
+    Behave: The Biology of Humans at Our Best and Worst" by Robert M. Sapolsky.
+
+    The Mosquito: A Human History of Our Deadliest Predator" by Timothy C. Winegard.
+
+    The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution" by Gregory Zuckerman.
+
+    Hacking Darwin: Genetic Engineering and the Future of Humanity" by Jamie Metzl.
+
+    Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do" by Jennifer L. Eberhardt.
+
+    The Spy and the Traitor: The Greatest Espionage Story of the Cold War" by Ben Macintyre.
+
+    Trick Mirror: Reflections on Self-Delusion" by Jia Tolentino.
+
+    Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell.
+
+    Prediction Machines: The Simple Economics of Artificial Intelligence," by Ajay Agrawal, Joshua Gans and Avi Goldfarb
+
+
+### The Random Pile
+
+    How to Lie With Statistics, by Darrell Huff
+
+    “Growth: From Microorganisms to Megacities,”
+
+    “Why We Sleep: Unlocking the Power of Sleep and Dream,”
+
+    “Bad Blood: Secrets and Lies in a Silicon Valley Startup,” < I have heard about this. "Theranos Bad" - Lol.
+
+    “The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger
+
+    “Harvesting the Biosphere: What We Have Taken from Nature,”
+
+
+## In Progress
 
 ## 2019
 
@@ -78,13 +78,13 @@ https://www.amazon.com/Loserthink-Untrained-Brains-Ruining-America/dp/0593083520
 
 
 [Ten Arguments for Deleting Your Social Media Accounts Right Now - Jaron Lanier  ] ( https://www.amazon.co.uk/Arguments-Deleting-Social-Media-Accounts/dp/1847925391)
-I found this book really disappointing. 
+I found this book really disappointing.
 The first part focuses on how our minds are being taken over by forces that want to change our behaviour in a sinister way.
 In reality the vast majority of the time they're just advertisers trying to sell us a new type of coffee or something.
 Gave up a third of the way through. Maybe the ending was cracking who knows.
 
 Whilst its definitely worth considering how much time (if any) you spend on social media and what impact its having on you..
-With some books I read I wonder why I bother as I really know the information anyway. 
+With some books I read I wonder why I bother as I really know the information anyway.
 
 
 [For the Record - David Cameron](
@@ -94,24 +94,24 @@ https://www.amazon.co.uk/Record-David-Cameron/dp/0008239282 )
 https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended/dp/1847941494 )
 
 
-[	Call Sign Chaos: Learning to Lead  ](	
+[	Call Sign Chaos: Learning to Lead  ](
 https://www.amazon.com/Call-Sign-Chaos-Learning-Lead/dp/B07SHVNJWQ/	)
 
-[	Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster ](	
+[	Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster ](
 https://www.amazon.com/Midnight-Chernobyl-Greatest-Nuclear-Disaster-ebook/dp/B07GNV7PNH	)
 
 [	Stop Doing That Sh*t ]( https://www.amazon.com/Stop-Doing-That-Sh-Self-Sabotage/dp/0062871846	)
 
 
-[	What the Most Successful People Do Before Breakfast: How to Achieve More at Work and at Home ](	
+[	What the Most Successful People Do Before Breakfast: How to Achieve More at Work and at Home ](
 https://www.amazon.co.uk/What-Successful-People-Before-Breakfast/dp/0670923613	)
 
 
-[	Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) ](	
-https://www.amazon.co.uk/Surrounded-Idiots-Behavior-Effectively-Communicate/dp/1250179947	)  
+[	Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) ](
+https://www.amazon.co.uk/Surrounded-Idiots-Behavior-Effectively-Communicate/dp/1250179947	)
 
 
-[	Algorithms to Live by: The Computer Science of Human Decisions ](	
+[	Algorithms to Live by: The Computer Science of Human Decisions ](
 https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/1627790365	)
 
 
@@ -127,9 +127,9 @@ https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/162779036
 
 [	Everything Is F*cked: A Book About Hope | Mark Manson ](	https://www.amazon.co.uk/Untitled-Mark-Manson/dp/0062888439	)
 
-[	The Power of Habit: Why We Do What We Do, and How to Change ](	https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240	) 
+[	The Power of Habit: Why We Do What We Do, and How to Change ](	https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240	)
 
-*Notes : [	This ](	https://www.developgoodhabits.com/power-of-habit-review/ ) Is a really good review of the core tenets of the book. 
+*Notes : [	This ](	https://www.developgoodhabits.com/power-of-habit-review/ ) Is a really good review of the core tenets of the book.
 
 [	Range : How Generalists Triumph in a Specialized World](	https://www.audible.co.uk/pd/Range-Audiobook/1529021138?qid=1562147680&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=903Z9J2Q9Q5BG5PHKHN0&ref=a_search_c3_lProduct_1_1	)
 
@@ -148,7 +148,7 @@ https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/162779036
 
 ### Books That I Did Not Finish :
 
-[	What If?	](	https://www.audible.co.uk/pd/What-If-Audiobook/B00M4LX55U?qid=1562146811&sr=1-2&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=H9AYVE0NK893BWV88NRV&ref=a_search_c3_lProduct_1_2	) - I found that there was something lost in the translation to audiobook form. Also, I had read a lot of them on XDCD anyway. Narration by Wil Wheaton was not enough to save it. 
+[	What If?	](	https://www.audible.co.uk/pd/What-If-Audiobook/B00M4LX55U?qid=1562146811&sr=1-2&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=H9AYVE0NK893BWV88NRV&ref=a_search_c3_lProduct_1_2	) - I found that there was something lost in the translation to audiobook form. Also, I had read a lot of them on XDCD anyway. Narration by Wil Wheaton was not enough to save it.
 
 ## A While Ago...
 
@@ -156,7 +156,7 @@ https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/162779036
 
 [	48 Laws of Power	](	https://www.audible.co.uk/pd/48-Laws-of-Power-Audiobook/B00WYD5NKS?qid=1562143920&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=AG679W21Q3ZNRTPVCSTS&ref=a_search_c3_lProduct_1_1	)
 
-Animal Farm by George Orwell			
+Animal Farm by George Orwell
 
 [	Born to Run	](	https://www.audible.co.uk/pd/Born-to-Run-Audiobook/B007RFPNE4?qid=1562143783&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=NNM6SVYYX0B0SKE3ZKJJ&ref=a_search_c3_lProduct_1_1	)
 
