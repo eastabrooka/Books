@@ -9,6 +9,10 @@
 
 ## 2019
 
+[Rich Dad Poor Dad: What The Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! ](
+https://www.amazon.co.uk/Rich-Dad-Poor-Teach-Middle/dp/1612680011 )
+
+
 [Loserthink: How Untrained Brains Are Ruining America  - Scott Adams](
 https://www.amazon.com/Loserthink-Untrained-Brains-Ruining-America/dp/0593083520 )
 
