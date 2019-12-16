@@ -66,6 +66,8 @@
 
 
 ## In Progress
+[ The Grid The Fraying Wires Between Americans and Our Energy Future ](https://www.audible.co.uk/pd/The-Grid-Audiobook/B01I5T00ZC?pf_rd_p=141829f9-9520-4744-b903-c10e5595070d&pf_rd_r=WEAREQVSY6RJAR4FHCZC&ref=a_lib_c4_libItem_B01I5T00ZC )
+
 
 ## 2019
 
