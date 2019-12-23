@@ -63,6 +63,8 @@
     “The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger
 
     “Harvesting the Biosphere: What We Have Taken from Nature,”
+	
+	Manufacturing Consent: The Political Economy of the Mass Media 
 
 
 ## In Progress
