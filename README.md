@@ -2,15 +2,6 @@
 
 ## Upcoming
 
-2020 Book Plans :
-
-### Maybe good for Work :
-
-    “Energy and Civilization: A History,”
-
-   “The Grid: The Fraying Wires Between Americans and Our Energy Future," || Done. 09/01/2020
-
-
 ### From - https://dottedsquirrel.com/everything-else/2020-reading-list-for-developers/
 
     The Laws Of Human Nature = Robert Greene
@@ -67,11 +58,12 @@
 	Manufacturing Consent: The Political Economy of the Mass Media 
 
 
-## In Progress
-
-
-
 ## 2019
+
+Woke : Social Justice Titania McGrath https://www.amazon.co.uk/Woke-Social-Justice-Titania-McGrath/dp/1472130847
+
+
+“Energy and Civilization: A History,” - Totally Boring. Started and dropped.
 
 [ The Grid The Fraying Wires Between Americans and Our Energy Future ](https://www.audible.co.uk/pd/The-Grid-Audiobook/B01I5T00ZC?pf_rd_p=141829f9-9520-4744-b903-c10e5595070d&pf_rd_r=WEAREQVSY6RJAR4FHCZC&ref=a_lib_c4_libItem_B01I5T00ZC )
 
