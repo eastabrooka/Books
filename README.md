@@ -10,8 +10,6 @@
 
     The Intelligent Investor
 
-    The Richest Man in Babylon
-
     The Little Book Of Common Sense Investing
 
     Zero Bugs and Program Faster
@@ -60,8 +58,9 @@
 
 ## 2019
 
-Woke : Social Justice Titania McGrath https://www.amazon.co.uk/Woke-Social-Justice-Titania-McGrath/dp/1472130847
+The Richest Man in Babylon
 
+Woke : Social Justice Titania McGrath https://www.amazon.co.uk/Woke-Social-Justice-Titania-McGrath/dp/1472130847
 
 “Energy and Civilization: A History,” - Totally Boring. Started and dropped.
 
