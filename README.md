@@ -1,68 +1,25 @@
 # Books
 
-## Upcoming
+### Currently In Progress: 
 
-### From - https://dottedsquirrel.com/everything-else/2020-reading-list-for-developers/
+Tim Ferriss - Tools of Titans
 
-    The Laws Of Human Nature = Robert Greene
+## 2020
 
-    Atomic Habits  - James Clear
+Caitlin Doughty - Smoke Gets in your Eyes
 
-    The Intelligent Investor
-
-    The Little Book Of Common Sense Investing
-
-    Zero Bugs and Program Faster
-
-    Just Enough Software Architecture: A Risk-Driven Approach
-
-    The Effective Engineer
-
-    From various bits of Hackernews
-
-    Behave: The Biology of Humans at Our Best and Worst" by Robert M. Sapolsky.
-
-    The Mosquito: A Human History of Our Deadliest Predator" by Timothy C. Winegard.
-
-    The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution" by Gregory Zuckerman.
-
-    Hacking Darwin: Genetic Engineering and the Future of Humanity" by Jamie Metzl.
-
-    Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do" by Jennifer L. Eberhardt.
-
-    The Spy and the Traitor: The Greatest Espionage Story of the Cold War" by Ben Macintyre.
-
-    Trick Mirror: Reflections on Self-Delusion" by Jia Tolentino.
-
-    Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell.
-
-    Prediction Machines: The Simple Economics of Artificial Intelligence," by Ajay Agrawal, Joshua Gans and Avi Goldfarb
-
-
-### The Random Pile
-
-    How to Lie With Statistics, by Darrell Huff
-
-    “Growth: From Microorganisms to Megacities,”
-
-    “Why We Sleep: Unlocking the Power of Sleep and Dream,”
-
-    “Bad Blood: Secrets and Lies in a Silicon Valley Startup,” < I have heard about this. "Theranos Bad" - Lol.
-
-    “The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger
-
-    “Harvesting the Biosphere: What We Have Taken from Nature,”
+### Dropped Books :
 	
-	Manufacturing Consent: The Political Economy of the Mass Media 
-
+The Unfair Advantage
+	
+The Intelligent Investor Rev Ed.
+	
 
 ## 2019
 
 The Richest Man in Babylon
 
-Woke : Social Justice Titania McGrath https://www.amazon.co.uk/Woke-Social-Justice-Titania-McGrath/dp/1472130847
-
-“Energy and Civilization: A History,” - Totally Boring. Started and dropped.
+[Woke : Social Justice Titania McGrath]( https://www.amazon.co.uk/Woke-Social-Justice-Titania-McGrath/dp/1472130847)
 
 [ The Grid The Fraying Wires Between Americans and Our Energy Future ](https://www.audible.co.uk/pd/The-Grid-Audiobook/B01I5T00ZC?pf_rd_p=141829f9-9520-4744-b903-c10e5595070d&pf_rd_r=WEAREQVSY6RJAR4FHCZC&ref=a_lib_c4_libItem_B01I5T00ZC )
 
@@ -72,17 +29,6 @@ https://www.amazon.co.uk/Rich-Dad-Poor-Teach-Middle/dp/1612680011 )
 
 [Loserthink: How Untrained Brains Are Ruining America  - Scott Adams](
 https://www.amazon.com/Loserthink-Untrained-Brains-Ruining-America/dp/0593083520 )
-
-
-[Ten Arguments for Deleting Your Social Media Accounts Right Now - Jaron Lanier  ] ( https://www.amazon.co.uk/Arguments-Deleting-Social-Media-Accounts/dp/1847925391)
-I found this book really disappointing.
-The first part focuses on how our minds are being taken over by forces that want to change our behaviour in a sinister way.
-In reality the vast majority of the time they're just advertisers trying to sell us a new type of coffee or something.
-Gave up a third of the way through. Maybe the ending was cracking who knows.
-
-Whilst its definitely worth considering how much time (if any) you spend on social media and what impact its having on you..
-With some books I read I wonder why I bother as I really know the information anyway.
-
 
 [For the Record - David Cameron](
 https://www.amazon.co.uk/Record-David-Cameron/dp/0008239282 )
@@ -143,9 +89,22 @@ https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/162779036
 
 [	The Rise of the Ultra Runners	](	https://www.audible.co.uk/pd/The-Rise-of-the-Ultra-Runners-Audiobook/0571354289?qid=1562145835&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=J5J8BZ5SP806B46GMKN7&ref=a_search_c3_lProduct_1_1	)
 
-### Books That I Did Not Finish :
+### Dropped Books :
 
 [	What If?	](	https://www.audible.co.uk/pd/What-If-Audiobook/B00M4LX55U?qid=1562146811&sr=1-2&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=H9AYVE0NK893BWV88NRV&ref=a_search_c3_lProduct_1_2	) - I found that there was something lost in the translation to audiobook form. Also, I had read a lot of them on XDCD anyway. Narration by Wil Wheaton was not enough to save it.
+
+[	Ten Arguments for Deleting Your Social Media Accounts Right Now - Jaron Lanier	](https://www.amazon.co.uk/Arguments-Deleting-Social-Media-Accounts/dp/1847925391)
+I found this book really disappointing.
+The first part focuses on how our minds are being taken over by forces that want to change our behaviour in a sinister way.
+In reality the vast majority of the time they're just advertisers trying to sell us a new type of coffee or something.
+Gave up a third of the way through. Maybe the ending was cracking who knows.
+
+Whilst its definitely worth considering how much time (if any) you spend on social media and what impact its having on you..
+With some books I read I wonder why I bother as I really know the information anyway.
+
+[“Energy and Civilization: A History”]() 
+
+Totally Boring. Started and dropped.
 
 ## A While Ago...
 
@@ -168,7 +127,6 @@ Animal Farm by George Orwell
 [	How to Win Friends & Influence People	](	https://www.audible.co.uk/pd/How-to-Win-Friends-Influence-People-Audiobook/B004EXIYZM?qid=1562143940&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=D0MD6VJ2P9ENT5MK7SHW&ref=a_search_c3_lProduct_1_1	)
 
 [	Losing My Virginity - Sir Richard Branson	](	https://www.amazon.co.uk/Losing-My-Virginity/dp/B002SPZA5A	)
-
 
 [	Meditations of Marcus Aurelius	](	https://www.audible.co.uk/pd/Meditations-of-Marcus-Aurelius-Audiobook/B008GWQCVU?pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=BVZ8A4DXG2Q4498V1D36&ref=a_lib_c4_libItem_B008GWQCVU	)
 
