@@ -8,6 +8,11 @@ Tim Ferriss - Tools of Titans
 
 Caitlin Doughty - Smoke Gets in your Eyes
 
+[Simply Said: Communicating Better at Work and Beyond](https://www.audible.co.uk/pd/Simply-Said-Audiobook/B06XRMS3SR)
+
+[The Field Guide to Understanding 'Human Error'](https://www.audible.co.uk/pd/The-Field-Guide-to-Understanding-Human-Error-Audiobook/B07CYX21Z7)
+
+
 ### Dropped Books :
 	
 The Unfair Advantage
