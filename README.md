@@ -2,9 +2,17 @@
 
 ### Currently In Progress: 
 
-Tim Ferriss - Tools of Titans
+Irresistible: Why We Can't Stop Checking, Scrolling, Clicking and Watching
 
 ## 2020
+
+A Bit of a Stretch: The Diaries of a Prisoner
+
+The Secret Barrister
+
+This Is Going to Hurt: Secret Diaries of a Junior Doctor
+
+Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers
 
 Caitlin Doughty - Smoke Gets in your Eyes
 
