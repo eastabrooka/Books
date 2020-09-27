@@ -2,9 +2,15 @@
 
 ### Currently In Progress: 
 
-Irresistible: Why We Can't Stop Checking, Scrolling, Clicking and Watching
+Rich Dad's Guide to Investing: What the Rich Invest In That the Poor and Middle Class Do Not!
 
 ## 2020
+
+The Madness of Crowds - By Douglas Murray
+
+Fake Law: The Truth About Justice in an Age of Lies - Secret Barrister
+
+Irresistible: Why We Can't Stop Checking, Scrolling, Clicking and Watching
 
 A Bit of a Stretch: The Diaries of a Prisoner
 
