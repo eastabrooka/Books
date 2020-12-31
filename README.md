@@ -2,9 +2,10 @@
 
 ### Currently In Progress: 
 
-Rich Dad's Guide to Investing: What the Rich Invest In That the Poor and Middle Class Do Not!
+
 
 ## 2020
+Rich Dad's Guide to Investing: What the Rich Invest In That the Poor and Middle Class Do Not!
 
 The Madness of Crowds - By Douglas Murray
 
