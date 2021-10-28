@@ -2,7 +2,17 @@
 
 ### Currently In Progress: 
 
+## 2021
 
+The Way I Heard It - Mike Rowe
+
+A Police Interceptor's Drive into Darkness - Benjamin Pearson 
+
+Training for Ultra: Ultra Running Stories from the Middle of the Pack - Rob Steger
+
+The Storyteller: Tales of Life and Music -  Dave Grohl
+
+Meathead: The Science of Great Barbecue and Grilling
 
 ## 2020
 Rich Dad's Guide to Investing: What the Rich Invest In That the Poor and Middle Class Do Not!
