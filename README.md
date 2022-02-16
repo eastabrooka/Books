@@ -2,6 +2,18 @@
 
 ### Currently In Progress: 
 
+Calling Bullshit: The Art of Scepticism in a Data-Driven World
+
+## 2022
+
+A Hunter-Gatherer’s Guide to the 21st Century - Heather Heying
+
+Hyperfocus - Chris Bailey
+
+Talking to Strangers: What We Should Know About the People We Don’t Know
+
+Windswept & Interesting: My Autobiography - Billy Connolly
+
 ## 2021
 
 The Way I Heard It - Mike Rowe
