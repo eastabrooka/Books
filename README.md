@@ -2,7 +2,7 @@
 
 ### Currently In Progress: 
 
-Calling Bullshit: The Art of Scepticism in a Data-Driven World
+Die With Zero: Getting All You Can from Your Money and Your Life
 
 ## 2022
 
@@ -15,6 +15,10 @@ Hyperfocus - Chris Bailey
 Talking to Strangers: What We Should Know About the People We Don’t Know
 
 Windswept & Interesting: My Autobiography - Billy Connolly
+
+## 2022 Failed 
+
+Calling Bullshit: The Art of Scepticism in a Data-Driven World ( Got Bored of it. ) 
 
 ## 2021
 
