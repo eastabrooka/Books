@@ -6,6 +6,8 @@ Calling Bullshit: The Art of Scepticism in a Data-Driven World
 
 ## 2022
 
+Four Thousand Weeks - Time and how to use it. Oliver Burkeman
+
 A Hunter-Gatherer’s Guide to the 21st Century - Heather Heying
 
 Hyperfocus - Chris Bailey
