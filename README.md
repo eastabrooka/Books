@@ -2,9 +2,13 @@
 
 ### Currently In Progress: 
 
-Die With Zero: Getting All You Can from Your Money and Your Life
+
 
 ## 2022
+
+Die With Zero: Getting All You Can from Your Money and Your Life
+
+Thanks for the Feedback: The Science and Art of Receiving Feedback Well 
 
 Four Thousand Weeks - Time and how to use it. Oliver Burkeman
 
