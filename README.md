@@ -6,6 +6,12 @@
 
 ## 2022
 
+The Paradox of Choice
+
+The Tipping Point: How Little Things Can Make a Big Difference
+
+Build: An Unorthodox Guide to Making Things Worth Making
+
 Die With Zero: Getting All You Can from Your Money and Your Life
 
 Thanks for the Feedback: The Science and Art of Receiving Feedback Well 
