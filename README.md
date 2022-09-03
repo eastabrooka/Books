@@ -2,9 +2,15 @@
 
 ### Currently In Progress: 
 
-
+Training essentials for ultrarunning
 
 ## 2022
+
+
+Ultramarathon Man - Book by Dean Karnazes
+
+Endure: How to Work Hard, Outlast, and Keep Hammering
+Book by Cameron Hanes
 
 The Paradox of Choice
 
