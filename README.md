@@ -2,9 +2,6 @@
 
 ### Next List : 
 
-
-Running Your First Ultra: Customizable Training Plans for Your First 50K to 100-Mile Race
-
 Field Guide to UltraRunning
 
 Finding Ultra by Rich Roll
@@ -13,10 +10,13 @@ Fixing your Feet
 
 ### Currently In Progress: 
 
-Training essentials for ultrarunning
+
 
 ## 2022
 
+Running Your First Ultra: Customizable Training Plans for Your First 50K to 100-Mile Race
+
+Training essentials for ultrarunning
 
 Ultramarathon Man - Book by Dean Karnazes
 
