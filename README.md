@@ -14,6 +14,10 @@ Fixing your Feet
 
 ## 2022
 
+How to Get Rich - Felix Dennis
+
+Undoctored: The Story of a Medic Who Ran Out of Patients
+
 Running Your First Ultra: Customizable Training Plans for Your First 50K to 100-Mile Race
 
 Training essentials for ultrarunning
