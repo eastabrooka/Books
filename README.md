@@ -8,9 +8,11 @@ Finding Ultra by Rich Roll
 
 Fixing your Feet 
 
-### Currently In Progress: 
+## 2023
 
+Doom Guy: Life in First Person, John Romero
 
+Outlive: The Science & Art of Longevity, by Peter Attia, M.D
 
 ## 2022
 
