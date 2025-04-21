@@ -1,228 +1,149 @@
-# Books
-
-## 2023
-
-Doug_Lennick,_Chuck_Wachendorfer_-_Don't_Wait_For_Someone_Else_to_Fix_It
-	
-Outlive The Science and Art of Longevity
-
-Doom Guy: Life in First Person, John Romero
-
-Outlive: The Science & Art of Longevity, by Peter Attia, M.D
-
-## 2022
-
-Relentless Forward Progress 
-
-How to Get Rich - Felix Dennis
-
-Undoctored: The Story of a Medic Who Ran Out of Patients
-
-Running Your First Ultra: Customizable Training Plans for Your First 50K to 100-Mile Race
-
-Training essentials for ultrarunning
-
-Ultramarathon Man - Book by Dean Karnazes
-
-Endure: How to Work Hard, Outlast, and Keep Hammering
-Book by Cameron Hanes
-
-The Paradox of Choice
-
-The Tipping Point: How Little Things Can Make a Big Difference
-
-Build: An Unorthodox Guide to Making Things Worth Making
-
-Die With Zero: Getting All You Can from Your Money and Your Life
-
-Thanks for the Feedback: The Science and Art of Receiving Feedback Well 
-
-Four Thousand Weeks - Time and how to use it. Oliver Burkeman
-
-A Hunter-Gatherer’s Guide to the 21st Century - Heather Heying
-
-Hyperfocus - Chris Bailey
-
-Talking to Strangers: What We Should Know About the People We Don’t Know
-
-Windswept & Interesting: My Autobiography - Billy Connolly
-
-## 2022 Failed 
-
-Calling Bullshit: The Art of Scepticism in a Data-Driven World ( Got Bored of it. ) 
-
-## 2021
-
-The Way I Heard It - Mike Rowe
-
-A Police Interceptor's Drive into Darkness - Benjamin Pearson 
-
-Training for Ultra: Ultra Running Stories from the Middle of the Pack - Rob Steger
-
-The Storyteller: Tales of Life and Music -  Dave Grohl
-
-Meathead: The Science of Great Barbecue and Grilling
-
-## 2020
-Rich Dad's Guide to Investing: What the Rich Invest In That the Poor and Middle Class Do Not!
-
-The Madness of Crowds - By Douglas Murray
-
-Fake Law: The Truth About Justice in an Age of Lies - Secret Barrister
-
-Irresistible: Why We Can't Stop Checking, Scrolling, Clicking and Watching
-
-A Bit of a Stretch: The Diaries of a Prisoner
-
-The Secret Barrister
-
-This Is Going to Hurt: Secret Diaries of a Junior Doctor
-
-Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers
-
-Caitlin Doughty - Smoke Gets in your Eyes
-
-[Simply Said: Communicating Better at Work and Beyond](https://www.audible.co.uk/pd/Simply-Said-Audiobook/B06XRMS3SR)
-
-[The Field Guide to Understanding 'Human Error'](https://www.audible.co.uk/pd/The-Field-Guide-to-Understanding-Human-Error-Audiobook/B07CYX21Z7)
-
-
-### Dropped Books :
-	
-The Unfair Advantage
-	
-The Intelligent Investor Rev Ed.
-	
-
-## 2019
-
-The Richest Man in Babylon
-
-[Woke : Social Justice Titania McGrath]( https://www.amazon.co.uk/Woke-Social-Justice-Titania-McGrath/dp/1472130847)
-
-[ The Grid The Fraying Wires Between Americans and Our Energy Future ](https://www.audible.co.uk/pd/The-Grid-Audiobook/B01I5T00ZC?pf_rd_p=141829f9-9520-4744-b903-c10e5595070d&pf_rd_r=WEAREQVSY6RJAR4FHCZC&ref=a_lib_c4_libItem_B01I5T00ZC )
-
-[Rich Dad Poor Dad: What The Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! ](
-https://www.amazon.co.uk/Rich-Dad-Poor-Teach-Middle/dp/1612680011 )
-
-
-[Loserthink: How Untrained Brains Are Ruining America  - Scott Adams](
-https://www.amazon.com/Loserthink-Untrained-Brains-Ruining-America/dp/0593083520 )
-
-[For the Record - David Cameron](
-https://www.amazon.co.uk/Record-David-Cameron/dp/0008239282 )
-
-[Never Split the Difference: Negotiating as if Your Life Depended on It](
-https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended/dp/1847941494 )
-
-
-[	Call Sign Chaos: Learning to Lead  ](
-https://www.amazon.com/Call-Sign-Chaos-Learning-Lead/dp/B07SHVNJWQ/	)
-
-[	Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster ](
-https://www.amazon.com/Midnight-Chernobyl-Greatest-Nuclear-Disaster-ebook/dp/B07GNV7PNH	)
-
-[	Stop Doing That Sh*t ]( https://www.amazon.com/Stop-Doing-That-Sh-Self-Sabotage/dp/0062871846	)
-
-
-[	What the Most Successful People Do Before Breakfast: How to Achieve More at Work and at Home ](
-https://www.amazon.co.uk/What-Successful-People-Before-Breakfast/dp/0670923613	)
-
-
-[	Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) ](
-https://www.amazon.co.uk/Surrounded-Idiots-Behavior-Effectively-Communicate/dp/1250179947	)
-
-
-[	Algorithms to Live by: The Computer Science of Human Decisions ](
-https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/1627790365	)
-
-
-[	The Keto Reset Diet: Reboot Your Metabolism in 21 Days and Burn Fat Forever ](	https://www.amazon.co.uk/Keto-Reset-Diet-Metabolism-Forever/dp/1743794614/ref=sr_1_1?keywords=keto+reset&qid=1568353980&s=books&sr=1-1	)
-
-[	The Everything Store: Jeff Bezos and the Age of Amazon ](	https://www.amazon.co.uk/Everything-Store-Jeff-Bezos-Amazon/dp/0552167835	)
-
-
-[	Do Dice Play God?: The Mathematics of Uncertainty ](	https://www.amazon.co.uk/Dice-Play-God-Mathematics-Uncertainty/dp/1788162285/ref=sr_1_1?keywords=do+dice+play+god&qid=1566583832&s=gateway&sr=8-1	)
-
-
-[	Masters Of Doom: How two guys created an empire and transformed pop culture ](	https://www.amazon.co.uk/Masters-Doom-created-transformed-culture/dp/0749924896/ref=sr_1_1?keywords=masters+of+doom&qid=1566583687&s=gateway&sr=8-1	)
-
-[	Everything Is F*cked: A Book About Hope | Mark Manson ](	https://www.amazon.co.uk/Untitled-Mark-Manson/dp/0062888439	)
-
-[	The Power of Habit: Why We Do What We Do, and How to Change ](	https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240	)
-
-*Notes : [	This ](	https://www.developgoodhabits.com/power-of-habit-review/ ) Is a really good review of the core tenets of the book.
-
-[	Range : How Generalists Triumph in a Specialized World](	https://www.audible.co.uk/pd/Range-Audiobook/1529021138?qid=1562147680&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=903Z9J2Q9Q5BG5PHKHN0&ref=a_search_c3_lProduct_1_1	)
-
-[	Crash Test Girl	](	https://www.audible.co.uk/pd/Crash-Test-Girl-Audiobook/B079YBCXR9?qid=1562143760&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=3XWTT29CDWVCY4GR5NGB&ref=a_search_c3_lProduct_1_1	)
-
-[	Every Tool's a Hammer	](	https://www.audible.co.uk/pd/Every-Tools-a-Hammer-Audiobook/1471188124?qid=1562143827&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=JCNYZG3R7GJF2PC8B65N&ref=a_search_c3_lProduct_1_1	)
-
-[	Skunk Works: A Personal Memoir of My Years at Lockheed	](	https://www.amazon.co.uk/Skunk-Works-Personal-Memoir-Lockheed/dp/0751515035	)
-
-[	Paddle Your Own Canoe: One Man's Fundamentals for Delicious Living Nick Offerman](	https://www.amazon.com/Paddle-Your-Own-Canoe-Fundamentals/dp/B00FFHINZM)
-
-
-[	The Life-Changing Magic of Tidying	](	https://www.audible.co.uk/pd/The-Life-Changing-Magic-of-Tidying-Audiobook/B01LWIUAVU?qid=1562145976&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=V6DT3YGZ1G4TD3MJ1A15&ref=a_search_c3_lProduct_1_1	)
-
-[	The Rise of the Ultra Runners	](	https://www.audible.co.uk/pd/The-Rise-of-the-Ultra-Runners-Audiobook/0571354289?qid=1562145835&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=J5J8BZ5SP806B46GMKN7&ref=a_search_c3_lProduct_1_1	)
-
-### Dropped Books :
-
-[	What If?	](	https://www.audible.co.uk/pd/What-If-Audiobook/B00M4LX55U?qid=1562146811&sr=1-2&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=H9AYVE0NK893BWV88NRV&ref=a_search_c3_lProduct_1_2	) - I found that there was something lost in the translation to audiobook form. Also, I had read a lot of them on XDCD anyway. Narration by Wil Wheaton was not enough to save it.
-
-[	Ten Arguments for Deleting Your Social Media Accounts Right Now - Jaron Lanier	](https://www.amazon.co.uk/Arguments-Deleting-Social-Media-Accounts/dp/1847925391)
-I found this book really disappointing.
-The first part focuses on how our minds are being taken over by forces that want to change our behaviour in a sinister way.
-In reality the vast majority of the time they're just advertisers trying to sell us a new type of coffee or something.
-Gave up a third of the way through. Maybe the ending was cracking who knows.
-
-Whilst its definitely worth considering how much time (if any) you spend on social media and what impact its having on you..
-With some books I read I wonder why I bother as I really know the information anyway.
-
-[“Energy and Civilization: A History”]() 
-
-Totally Boring. Started and dropped.
-
-## A While Ago...
-
-[	12 Rules for Life: An Antidote to Chaos 	](	https://www.audible.co.uk/pd/12-Rules-for-Life-Audiobook/B078Y7X7M4?pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=F8YM6P92P8T1ES5QDBRP&ref=a_lib_c4_libItem_B078Y7X7M4	)
-
-[	48 Laws of Power	](	https://www.audible.co.uk/pd/48-Laws-of-Power-Audiobook/B00WYD5NKS?qid=1562143920&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=AG679W21Q3ZNRTPVCSTS&ref=a_search_c3_lProduct_1_1	)
-
-Animal Farm by George Orwell
-
-[	Born to Run	](	https://www.audible.co.uk/pd/Born-to-Run-Audiobook/B007RFPNE4?qid=1562143783&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=NNM6SVYYX0B0SKE3ZKJJ&ref=a_search_c3_lProduct_1_1	)
-
-[	Brave New World	](	https://www.audible.co.uk/pd/Brave-New-World-Audiobook/B004EVP6BY?qid=1562143771&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=9BS8F4RNHDJEJ145DN1K&ref=a_search_c3_lProduct_1_1	)
-
-[	Deep Work	](	https://www.audible.co.uk/pd/Deep-Work-Audiobook/B01D0E32T8?qid=1562143752&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=J7QRE1QX6RXJKTXN1X6N&ref=a_search_c3_lProduct_1_1	)
-
-[	Elon Musk	](	https://www.audible.co.uk/pd/Elon-Musk-Audiobook/B01EI50RAU?qid=1562143730&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=JAZF65BRSJ3CDRC1K3NF&ref=a_search_c3_lProduct_1_1	)
-
-[	Ender's Game: Special 20th Anniversary Edition	](	https://www.audible.co.uk/pd/Enders-Game-Audiobook/B004FTAH8C?pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=BVZ8A4DXG2Q4498V1D36&ref=a_lib_c4_libItem_B004FTAH8C	)
-
-[	How to Win Friends & Influence People	](	https://www.audible.co.uk/pd/How-to-Win-Friends-Influence-People-Audiobook/B004EXIYZM?qid=1562143940&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=D0MD6VJ2P9ENT5MK7SHW&ref=a_search_c3_lProduct_1_1	)
-
-[	Losing My Virginity - Sir Richard Branson	](	https://www.amazon.co.uk/Losing-My-Virginity/dp/B002SPZA5A	)
-
-[	Meditations of Marcus Aurelius	](	https://www.audible.co.uk/pd/Meditations-of-Marcus-Aurelius-Audiobook/B008GWQCVU?pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=BVZ8A4DXG2Q4498V1D36&ref=a_lib_c4_libItem_B008GWQCVU	)
-
-[	Nineteen Eighty-Four	](	https://www.audible.co.uk/pd/Nineteen-Eighty-Four-Audiobook/B004FTFAUC?pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=BVZ8A4DXG2Q4498V1D36&ref=a_lib_c4_libItem_B004FTFAUC	)
-
-[	Ready Player One	](	https://www.audible.co.uk/pd/Ready-Player-One-Audiobook/B007PR58RQ?qid=1562143928&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=QB248Z0AA1YD77P10XC1&ref=a_search_c3_lProduct_1_1	)
-
-[	The 4-Hour Work Week	](	https://www.audible.co.uk/pd/The-4-Hour-Work-Week-Audiobook/B005QQWGPA?qid=1562143911&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=G2FWBTS05AD0TT8WXQ0E&ref=a_search_c3_lProduct_1_1	)
-
-[	The Art of War: The Strategy of Sun Tzu	](	https://www.audible.co.uk/pd/The-Art-of-War-Audiobook/B005PYHGZ8?pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=BVZ8A4DXG2Q4498V1D36&ref=a_lib_c4_libItem_B005PYHGZ8	)
-
-[	The Martian	](	https://www.audible.co.uk/pd/The-Martian-Audiobook/B00B5HWE60?qid=1562143903&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=WW2Y9CRFEJD6Y6H6XRCQ&ref=a_search_c3_lProduct_1_1	)
-
-[	The Subtle Art of Not Giving a F*ck	](	https://www.audible.co.uk/pd/The-Subtle-Art-of-Not-Giving-a-F-ck-Audiobook/B01MG9416Z?qid=1562143894&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=Y0Z7WFXXJXXENMVXNDQ9&ref=a_search_c3_lProduct_1_1	)
-
-[	Thinking, Fast and Slow	](	https://www.audible.co.uk/pd/Thinking-Fast-and-Slow-Audiobook/B006QNPQFY?qid=1562143864&sr=1-1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=R65J6MAR6TQC3QF742V7&ref=a_search_c3_lProduct_1_1	)
-
-[	Win Bigly: Persuasion in a World Where Facts Don't Matter 	](	https://www.audible.co.uk/pd/Win-Bigly-Audiobook/B0751KRGYM?pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=TT324N1WD6ZCRRGY0BXB&ref=a_lib_c4_libItem_B0751KRGYM	)
-
-[	Zen and the Art of Motorcycle Maintenance	](	https://www.audible.co.uk/pd/Zen-and-the-Art-of-Motorcycle-Maintenance-Audiobook/B00FY50DQM?pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=BVZ8A4DXG2Q4498V1D36&ref=a_lib_c4_libItem_B00FY50DQM	)
+# 📚 Alex's Reading List
+
+Note : Between 2023 - and Now ( 2025 ) - I lost my shit with Audible, and used a different playback tool. 
+History is not as linear as it should be. 
+
+## ✅ Finished Books (from Library View)
+
+1. *Grokking Algorithms* – Aditya Bhargava  
+2. *Be Useful: Seven Tools for Life* – Arnold Schwarzenegger  
+3. *Doom Guy: Life in First Person* – John Romero  
+4. *Don't Wait for Someone Else to Fix It* – Doug Lennick, Chuck Wachendorfer  
+5. *Feel-Good Productivity* – Ali Abdaal  
+6. *Founders at Work* – Jessica Livingston  
+7. *Great Leaders Have No Rules* – Kevin Kruse  
+8. *North* – Scott Jurek, Jenny Jurek  
+9. *Outlive: The Science and Art of Longevity* – Dr. Peter Attia  
+10. *Radical Candor* – Kim Scott  
+11. *Master Mentors* – Scott Jeffrey Miller  
+12. *Supercommunicators* – Charles Duhigg  
+13. *The Art of Small Talk* – Casey Wilson, Jessica St. Clair  
+14. *The End of Burnout* – Jonathan Malesic  
+15. *The Perfection Trap* – Thomas Curran  
+16. *Loonshots* – Safi Bahcall  
+17. *Death by Meeting* – Patrick Lencioni  
+18. *Running Meetings* – Harvard Business Review  
+19. *The Surprising Science of Meetings* – Steven G. Rogelberg, L. J. Ganser  
+20. *Working Backwards* – Colin Bryar, Bill Carr  
+
+---
+
+## 📅 2023
+
+- *Don’t Wait For Someone Else to Fix It* – Doug Lennick, Chuck Wachendorfer  
+- *Outlive: The Science & Art of Longevity* – Peter Attia, M.D.  
+- *Doom Guy: Life in First Person* – John Romero  
+- *Relentless Forward Progress*  
+- *How to Get Rich* – Felix Dennis  
+- *Undoctored* – Adam Kay  
+- *Running Your First Ultra*  
+- *Training Essentials for Ultrarunning*  
+- *Ultramarathon Man* – Dean Karnazes  
+- *Endure* – Cameron Hanes  
+- *The Paradox of Choice*  
+- *The Tipping Point* – Malcolm Gladwell  
+- *Build* – Tony Fadell  
+- *Die With Zero* – Bill Perkins  
+- *Thanks for the Feedback* – Douglas Stone, Sheila Heen  
+- *Four Thousand Weeks* – Oliver Burkeman  
+- *A Hunter-Gatherer’s Guide to the 21st Century* – Heather Heying  
+- *Hyperfocus* – Chris Bailey  
+- *Talking to Strangers* – Malcolm Gladwell  
+- *Windswept & Interesting* – Billy Connolly  
+
+### ❌ 2023 Failed  
+- *Calling Bullshit* – Dropped, got bored  
+
+---
+
+## 📅 2022
+
+- *The Way I Heard It* – Mike Rowe  
+- *A Police Interceptor's Drive into Darkness* – Benjamin Pearson  
+- *Training for Ultra* – Rob Steger  
+- *The Storyteller* – Dave Grohl  
+- *Meathead* – Meathead Goldwyn  
+
+---
+
+## 📅 2021
+
+- *Rich Dad's Guide to Investing*  
+- *The Madness of Crowds* – Douglas Murray  
+- *Fake Law* – The Secret Barrister  
+- *Irresistible* – Adam Alter  
+- *A Bit of a Stretch* – Chris Atkins  
+- *The Secret Barrister*  
+- *This Is Going to Hurt* – Adam Kay  
+- *Tools of Titans* – Tim Ferriss  
+- *Smoke Gets in Your Eyes* – Caitlin Doughty  
+- *Simply Said* – Jay Sullivan  
+- *The Field Guide to Understanding 'Human Error'* – Sidney Dekker  
+
+---
+
+## ❌ Dropped Books
+
+- *The Unfair Advantage*  
+- *The Intelligent Investor (Rev Ed.)*  
+
+---
+
+## 📅 2019
+
+- *The Richest Man in Babylon*  
+- *Woke* – Titania McGrath  
+- *The Grid*  
+- *Rich Dad Poor Dad* – Robert Kiyosaki  
+- *Loserthink* – Scott Adams  
+- *For the Record* – David Cameron  
+- *Never Split the Difference* – Chris Voss  
+- *Call Sign Chaos* – Jim Mattis  
+- *Midnight in Chernobyl* – Adam Higginbotham  
+- *Stop Doing That Sh*t* – Gary John Bishop  
+- *What the Most Successful People Do Before Breakfast* – Laura Vanderkam  
+- *Surrounded by Idiots* – Thomas Erikson  
+- *Algorithms to Live By* – Brian Christian, Tom Griffiths  
+- *The Keto Reset Diet* – Mark Sisson  
+- *The Everything Store* – Brad Stone  
+- *Do Dice Play God?* – Ian Stewart  
+- *Masters of Doom* – David Kushner  
+- *Everything Is F*cked* – Mark Manson  
+- *The Power of Habit* – Charles Duhigg  
+- *Range* – David Epstein  
+- *Crash Test Girl* – Kari Byron  
+- *Every Tool's a Hammer* – Adam Savage  
+- *Skunk Works* – Ben Rich  
+- *Paddle Your Own Canoe* – Nick Offerman  
+- *The Life-Changing Magic of Tidying* – Marie Kondo  
+- *The Rise of the Ultra Runners* – Adharanand Finn  
+
+### ❌ 2019 Dropped  
+- *What If?* – Too familiar with content  
+- *Ten Arguments for Deleting Your Social Media* – Didn’t find it useful  
+- *Energy and Civilization: A History* – Boring  
+
+---
+
+## 📖 A While Ago
+
+- *12 Rules for Life* – Jordan Peterson  
+- *48 Laws of Power* – Robert Greene  
+- *Animal Farm* – George Orwell  
+- *Born to Run* – Christopher McDougall  
+- *Brave New World* – Aldous Huxley  
+- *Deep Work* – Cal Newport  
+- *Elon Musk* – Ashlee Vance  
+- *Ender's Game* – Orson Scott Card  
+- *How to Win Friends & Influence People* – Dale Carnegie  
+- *Losing My Virginity* – Richard Branson  
+- *Meditations* – Marcus Aurelius  
+- *Nineteen Eighty-Four* – George Orwell  
+- *Ready Player One* – Ernest Cline  
+- *The 4-Hour Work Week* – Tim Ferriss  
+- *The Art of War* – Sun Tzu  
+- *The Martian* – Andy Weir  
+- *The Subtle Art of Not Giving a F*ck* – Mark Manson  
+- *Thinking, Fast and Slow* – Daniel Kahneman  
+- *Win Bigly* – Scott Adams  
+- *Zen and the Art of Motorcycle Maintenance* – Robert M. Pirsig  
