@@ -2,6 +2,9 @@
 
 Note : Between 2023 - and Now ( 2025 ) - I lost my shit with Audible, and used a different playback tool. 
 History is not as linear as it should be. 
+## 📅 2026
+
+*Smile, or You're Doing It Wrong* — Andy Glaze
 
 ## ✅ Finished Books (from Library View)
 
@@ -25,7 +28,15 @@ History is not as linear as it should be.
 18. *Running Meetings* – Harvard Business Review  
 19. *The Surprising Science of Meetings* – Steven G. Rogelberg, L. J. Ganser  
 20. *Working Backwards* – Colin Bryar, Bill Carr  
-
+21. *Steal Like an Artist* — Austin Kleon
+22. *Becoming a Data Head* — Alex J. Gutman, Jordan Goldmeier
+23. *Chaos Monkeys* — Antonio García Martínez
+24. *Fixing Your Feet* — John Vonhof
+25. *How to Be a Good Boss and a Great Leader* — Anthony Raymond
+26. *Smile, or You're Doing It Wrong* — Andy Glaze
+27. *Source Code: My Beginnings* — Bill Gates
+28. *The Hard Thing About Hard Things* — Ben Horowitz
+29. *Thinking in Bets* — Annie Duke
 ---
 
 ## 📅 2023
