@@ -4,6 +4,8 @@ Mostly audiobooks. From 2024 the years come from Audiobookshelf's finished
 dates. Books finished between 2023 and 2025 without a recorded date are in
 their own section.
 
+Want to read: [ToRead.md](ToRead.md)
+
 ## 📅 2026
 
 - *The Eye of the Bedlam Bride* (Dungeon Crawler Carl 6) — Matt Dinniman
