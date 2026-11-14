@@ -25,8 +25,6 @@ Want to read: [ToRead.md](ToRead.md)
 - *Fixing Your Feet* — John Vonhof
 - *Working Backwards* — Colin Bryar, Bill Carr
 - *Loonshots* — Safi Bahcall
-- *Becoming a Data Head* — Alex J. Gutman, Jordan Goldmeier
-- *How to Be a Good Boss and a Great Leader* — Anthony Raymond
 - *Source Code: My Beginnings* — Bill Gates
 - *Death by Meeting* — Patrick Lencioni
 - *The Hard Thing About Hard Things* — Ben Horowitz
@@ -36,7 +34,6 @@ Want to read: [ToRead.md](ToRead.md)
 ## 📅 2024
 
 - *The Perfection Trap* — Thomas Curran
-- *Grokking Algorithms* — Aditya Bhargava
 - *Be Useful: Seven Tools for Life* — Arnold Schwarzenegger
 
 ## 📅 2023 to 2025, date not recorded
@@ -46,13 +43,9 @@ these don't have reliable finish dates.
 
 - *Feel-Good Productivity* — Ali Abdaal
 - *Great Leaders Have No Rules* — Kevin Kruse
-- *North* — Scott Jurek, Jenny Jurek
 - *Radical Candor* — Kim Scott
 - *Master Mentors* — Scott Jeffrey Miller
-- *The Art of Small Talk* — Casey Wilson, Jessica St. Clair
 - *The End of Burnout* — Jonathan Malesic
-- *Running Meetings* — Harvard Business Review
-- *The Surprising Science of Meetings* — Steven G. Rogelberg
 
 ## 📅 2023
 
