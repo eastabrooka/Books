@@ -1,12 +1,14 @@
 # Notes for Claude
 
+This repo is public. Don't put anything private here: no server names, no
+personal details.
+
 - `README.md` is books I've finished, by year. `ToRead.md` is what I want to
   read. `ToGet.md` is books to buy or download. All live on `master`.
-- I mostly listen to audiobooks, on walks and around the commute, through my
-  Audiobookshelf server at bookserver.dev. Very short plays there (a few
-  minutes) are tests for other users or saved for later, not books I dropped.
+- I mostly listen to audiobooks, on walks and around the commute. Very short
+  plays (a few minutes) are tests or saved for later, not books I dropped.
   Only log a book as finished if I actually listened to it.
-- Don't add a "reading now" section. Audiobookshelf tracks that.
+- Don't add a "reading now" section.
 
 ## What I like
 
