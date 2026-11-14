@@ -1,7 +1,7 @@
 # Notes for Claude
 
 - `README.md` is books I've finished, by year. `ToRead.md` is what I want to
-  read. Both live on `master`.
+  read. `ToGet.md` is books to buy or download. All live on `master`.
 - I mostly listen to audiobooks, on walks and around the commute, through my
   Audiobookshelf server at bookserver.dev. Very short plays there (a few
   minutes) are tests for other users or saved for later, not books I dropped.
