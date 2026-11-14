@@ -1,6 +1,6 @@
 # 📚 Alex's Reading List
 
-Mostly audiobooks. From 2024 the years come from Audiobookshelf's finished
+Mostly audiobooks. From 2024 the years come from my player's finished
 dates. Books finished between 2023 and 2025 without a recorded date are in
 their own section.
 
