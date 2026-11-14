@@ -3,6 +3,10 @@
 Finished books are in [README.md](README.md). One work book at a time, with a
 fun one alongside for walks.
 
+## 🎧 Reading now
+
+- *A Parade of Horribles* (Dungeon Crawler Carl 8) — Matt Dinniman
+
 ## ⭐ Up next, in order
 
 1. *What Got You Here Won't Get You There* — Marshall Goldsmith
@@ -11,7 +15,6 @@ fun one alongside for walks.
 
 ## 🚀 Alongside, for walks
 
-- *This Inevitable Ruin* (Dungeon Crawler Carl 7) — Matt Dinniman
 - *We Are Legion (We Are Bob)* — Dennis E. Taylor
 
 ## 🔧 On the desk
