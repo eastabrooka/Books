@@ -4,7 +4,14 @@ Note : Between 2023 - and Now ( 2025 ) - I lost my shit with Audible, and used a
 History is not as linear as it should be. 
 ## 📅 2026
 
-*Smile, or You're Doing It Wrong* — Andy Glaze
+- *Smile, or You're Doing It Wrong* — Andy Glaze
+- *Cry, the Beloved Country* — Alan Paton
+- *Dungeon Crawler Carl* — Matt Dinniman
+- *Carl's Doomsday Scenario* (DCC 2) — Matt Dinniman
+- *The Dungeon Anarchist's Cookbook* (DCC 3) — Matt Dinniman
+- *The Gate of the Feral Gods* (DCC 4) — Matt Dinniman
+- *The Butcher's Masquerade* (DCC 5) — Matt Dinniman
+- *The Eye of the Bedlam Bride* (DCC 6) — Matt Dinniman
 
 ## ✅ Finished Books (from Library View)
 
@@ -37,6 +44,13 @@ History is not as linear as it should be.
 27. *Source Code: My Beginnings* — Bill Gates
 28. *The Hard Thing About Hard Things* — Ben Horowitz
 29. *Thinking in Bets* — Annie Duke
+30. *Cry, the Beloved Country* — Alan Paton
+31. *Dungeon Crawler Carl* — Matt Dinniman
+32. *Carl's Doomsday Scenario* — Matt Dinniman
+33. *The Dungeon Anarchist's Cookbook* — Matt Dinniman
+34. *The Gate of the Feral Gods* — Matt Dinniman
+35. *The Butcher's Masquerade* — Matt Dinniman
+36. *The Eye of the Bedlam Bride* — Matt Dinniman
 ---
 
 ## 📅 2023
